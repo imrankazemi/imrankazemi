@@ -1,2 +1,5 @@
-Hey, I’m Imran an amateur programmer. I built a few practical applications and put them here. They are nothing fancy, but they demonstrate that I know how to code.
-I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, Python, C++, and Java, but I'm always willing to learn new skills to enhance my abilities, I’m also eager to meet other software engineers in the area, so feel free to connect!
+Hello there! I'm Imran, an enthusiastic amateur programmer. I have developed several practical applications that showcase my coding skills. While they may not be extravagant, they serve as a testament to my programming capabilities.
+
+I am well-versed in multiple programming languages such as JavaScript, HTML, CSS, Python, C++, and Java. I am constantly seeking to expand my skill set by learning new technologies to improve my proficiency.
+
+I am eager to connect with fellow software engineers in the community, so please feel free to reach out and connect with me!
